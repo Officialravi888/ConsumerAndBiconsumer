@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="200c6b97-5ddd-4270-9791-e75b7212177e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consumer/Java8ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consumer/Java8ConsumerExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consumer/Java8ConsumerStudentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consumer/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Consumer_Bank_Data/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Consumer_Bank_Data/InterfaceConsumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +30,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Java8ConsumerStudentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Consumer.Java8ConsumerStudentExample" />
