@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="200c6b97-5ddd-4270-9791-e75b7212177e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Consumer_Bank_Data/Java8ConsumerExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Consumer_Bank_Data/Java8ConsumerStudentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Consumer_Bank_Data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Consumer_Bank_Data/java8ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Seme/Mai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Seme/Mai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Emp/SupplierInterfaceEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Emp/SupplierInterfaceEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Emp/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Database1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/DataBase/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/DataBase/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/DataBase/Employee1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/DataBase/Employee2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Consumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_8_Consumer_Example/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Consumer/Java8ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_8_Consumer_Example/Java8ConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Consumer/Java8ConsumerExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Consumer/Java8ConsumerStudentExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Consumer/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Consumer_Bank_Data/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Consumer_Bank_Data/InterfaceConsumer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +62,33 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test3">
+  <component name="RunManager" selected="Application.SupplierInterfaceEx2">
+    <configuration name="Database1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.Database1" />
+      <module name="ConsumerAndBiconsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employee2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DataBase.Employee2" />
+      <module name="ConsumerAndBiconsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.DataBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Java8ConsumerStudentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Consumer.Java8ConsumerStudentExample" />
       <module name="ConsumerAndBiconsumer" />
@@ -58,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface.Test2" />
+    <configuration name="SupplierInterfaceEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Emp.SupplierInterfaceEx1" />
       <module name="ConsumerAndBiconsumer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interface.*" />
+          <option name="PATTERN" value="com.Emp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface.Test3" />
+    <configuration name="SupplierInterfaceEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Emp.SupplierInterfaceEx2" />
       <module name="ConsumerAndBiconsumer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interface.*" />
+          <option name="PATTERN" value="com.Emp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,9 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.SupplierInterfaceEx2" />
+        <item itemvalue="Application.SupplierInterfaceEx1" />
+        <item itemvalue="Application.Employee2" />
         <item itemvalue="Application.Java8ConsumerStudentExample" />
+        <item itemvalue="Application.Database1" />
       </list>
     </recent_temporary>
   </component>
